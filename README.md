@@ -4,8 +4,8 @@
 <div align="center">
   
 
-  <h1>Sudhanshu Portfolio</h1>
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <h1>Text Analyzer</h1>
+  <a href="https://text-analyzer-tool.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
@@ -19,12 +19,12 @@
 
 ## Live Project
 
-[Click Here]()
+[Click Here](https://text-analyzer-tool.vercel.app/)
 
 
 ## Created By :
 
-- [@Sudhanshu Patel](https://github.com/sudhanshu287)
+- [@Sudhanshu Patel](https://github.com/sudhanshu287/)
 
 
 ## 🚀 About Me
